@@ -1,0 +1,110 @@
+.Top-Container {
+  background-color: #e3fdfd;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+margin-top: 60px;
+}
+.bottom-container{
+  background-color: #a6e3e9;
+  padding: 50px 0 25px;
+}
+.footer-link{
+  color: #71c9ce;
+}
+a{
+  font-family: 'Merienda One', cursive;
+  color: #14b1ab;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 110%;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Satisfy', cursive;
+  font-size: 5.6rem;
+  color: #71c9ce;
+}
+
+h2 {
+  font-family: 'Merienda One', cursive;
+  font-size: 2.5rem;
+  margin-top: 0;
+  color: #71c9ce;
+  font-weight:normal;
+}
+
+h3 {
+  font-family: 'Merienda One', cursive;
+  color: #71c9ce;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 20px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  color: #40514E;
+}
+.computer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chilli{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.prof{
+  width: 25%;
+  margin-bottom: 2rem;
+}
+.profile{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  color: #40514E;
+}
+.description{
+  font-weight: bolder;
+}
+hr{
+  margin-top: 0;
+  border-style: none;
+  border-top-style:dotted;
+  border-color:#14b1ab;
+  border-width:5px;
+  width:5%;
+}
+.skills{
+  margin: 100px auto 100px auto;
+}
+.contact-me{
+  margin: 100px auto 100px auto;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 1rem;
+  padding: 20px 0;
+}
